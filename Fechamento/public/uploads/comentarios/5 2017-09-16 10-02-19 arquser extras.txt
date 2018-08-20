@@ -1,0 +1,1 @@
+-> Inserir uma coluna na tabela atividade__periodo informando se o periodo está encerrado, para não trazer mais nas consultas.

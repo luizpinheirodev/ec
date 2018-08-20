@@ -1,0 +1,33 @@
+.grafico-panel {
+	/*text-align: center;*/
+    background: #444c57;
+}
+
+.grafico-header {
+	background: transparent;
+	padding: 1px;
+	margin-bottom: 1px;
+}
+
+.mt {
+	margin-top: 25px;
+}
+
+.titu-grafico {
+    font-weight: 150;
+	margin-top: 10px;
+	acolor: white;
+	color: #263238;
+	afont-family: Calibri;
+}
+.perc-grafico {
+	font-size: 10;
+	padding-right: 15px;
+	padding-top: 15px;
+	text-align: center;
+	acolor: white;	
+	color: #263238;
+	aborder-right: 5px solid #eee;
+	border-left: 0;
+}
+

@@ -1,0 +1,1875 @@
+锘縄lluminate\Support\Collection {#582
+  #items: array:11 [
+    0 => {#584
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "asasas"
+      +"float": 2
+      +"hora": "17:00:00"
+    }
+    1 => {#587
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Atividade teste trigger"
+      +"float": 2
+      +"hora": "17:10:00"
+    }
+    2 => {#585
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Envio dos termos"
+      +"float": 1
+      +"hora": "18:00:00"
+    }
+    3 => {#590
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    4 => {#583
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco2"
+      +"float": 2
+      +"hora": "15:00:00"
+    }
+    5 => {#579
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco3"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    6 => {#572
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Test Confede"
+      +"float": 6
+      +"hora": "17:01:00"
+    }
+    7 => {#601
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸rcio Teste2"
+      +"float": 2
+      +"hora": "17:05:00"
+    }
+    8 => {#602
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸r tes"
+      +"float": 6
+      +"hora": "17:07:00"
+    }
+    9 => {#603
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "teste Corretora"
+      +"float": 2
+      +"hora": "18:30:00"
+    }
+    10 => {#604
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Ativ Fundos"
+      +"float": 6
+      +"hora": "18:30:00"
+    }
+  ]
+}
+Illuminate\Support\Collection {#582
+  #items: array:11 [
+    0 => {#584
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "asasas"
+      +"float": 2
+      +"hora": "17:00:00"
+    }
+    1 => {#587
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Atividade teste trigger"
+      +"float": 2
+      +"hora": "17:10:00"
+    }
+    2 => {#585
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Envio dos termos"
+      +"float": 1
+      +"hora": "18:00:00"
+    }
+    3 => {#590
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    4 => {#583
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco2"
+      +"float": 2
+      +"hora": "15:00:00"
+    }
+    5 => {#579
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco3"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    6 => {#572
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Test Confede"
+      +"float": 6
+      +"hora": "17:01:00"
+    }
+    7 => {#601
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸rcio Teste2"
+      +"float": 2
+      +"hora": "17:05:00"
+    }
+    8 => {#602
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸r tes"
+      +"float": 6
+      +"hora": "17:07:00"
+    }
+    9 => {#603
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "teste Corretora"
+      +"float": 2
+      +"hora": "18:30:00"
+    }
+    10 => {#604
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Ativ Fundos"
+      +"float": 6
+      +"hora": "18:30:00"
+    }
+  ]
+}
+Illuminate\Support\Collection {#582
+  #items: array:11 [
+    0 => {#584
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "asasas"
+      +"float": 2
+      +"hora": "17:00:00"
+    }
+    1 => {#587
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Atividade teste trigger"
+      +"float": 2
+      +"hora": "17:10:00"
+    }
+    2 => {#585
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Envio dos termos"
+      +"float": 1
+      +"hora": "18:00:00"
+    }
+    3 => {#590
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    4 => {#583
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco2"
+      +"float": 2
+      +"hora": "15:00:00"
+    }
+    5 => {#579
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco3"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    6 => {#572
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Test Confede"
+      +"float": 6
+      +"hora": "17:01:00"
+    }
+    7 => {#601
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸rcio Teste2"
+      +"float": 2
+      +"hora": "17:05:00"
+    }
+    8 => {#602
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸r tes"
+      +"float": 6
+      +"hora": "17:07:00"
+    }
+    9 => {#603
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "teste Corretora"
+      +"float": 2
+      +"hora": "18:30:00"
+    }
+    10 => {#604
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Ativ Fundos"
+      +"float": 6
+      +"hora": "18:30:00"
+    }
+  ]
+}
+Illuminate\Support\Collection {#582
+  #items: array:11 [
+    0 => {#584
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "asasas"
+      +"float": 2
+      +"hora": "17:00:00"
+    }
+    1 => {#587
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Atividade teste trigger"
+      +"float": 2
+      +"hora": "17:10:00"
+    }
+    2 => {#585
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Envio dos termos"
+      +"float": 1
+      +"hora": "18:00:00"
+    }
+    3 => {#590
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    4 => {#583
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco2"
+      +"float": 2
+      +"hora": "15:00:00"
+    }
+    5 => {#579
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco3"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    6 => {#572
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Test Confede"
+      +"float": 6
+      +"hora": "17:01:00"
+    }
+    7 => {#601
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸rcio Teste2"
+      +"float": 2
+      +"hora": "17:05:00"
+    }
+    8 => {#602
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸r tes"
+      +"float": 6
+      +"hora": "17:07:00"
+    }
+    9 => {#603
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "teste Corretora"
+      +"float": 2
+      +"hora": "18:30:00"
+    }
+    10 => {#604
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Ativ Fundos"
+      +"float": 6
+      +"hora": "18:30:00"
+    }
+  ]
+}
+Illuminate\Support\Collection {#582
+  #items: array:11 [
+    0 => {#584
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "asasas"
+      +"float": 2
+      +"hora": "17:00:00"
+    }
+    1 => {#587
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Atividade teste trigger"
+      +"float": 2
+      +"hora": "17:10:00"
+    }
+    2 => {#585
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Envio dos termos"
+      +"float": 1
+      +"hora": "18:00:00"
+    }
+    3 => {#590
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    4 => {#583
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco2"
+      +"float": 2
+      +"hora": "15:00:00"
+    }
+    5 => {#579
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco3"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    6 => {#572
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Test Confede"
+      +"float": 6
+      +"hora": "17:01:00"
+    }
+    7 => {#601
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸rcio Teste2"
+      +"float": 2
+      +"hora": "17:05:00"
+    }
+    8 => {#602
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸r tes"
+      +"float": 6
+      +"hora": "17:07:00"
+    }
+    9 => {#603
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "teste Corretora"
+      +"float": 2
+      +"hora": "18:30:00"
+    }
+    10 => {#604
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Ativ Fundos"
+      +"float": 6
+      +"hora": "18:30:00"
+    }
+  ]
+}
+Illuminate\Support\Collection {#582
+  #items: array:11 [
+    0 => {#584
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "asasas"
+      +"float": 2
+      +"hora": "17:00:00"
+    }
+    1 => {#587
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Atividade teste trigger"
+      +"float": 2
+      +"hora": "17:10:00"
+    }
+    2 => {#585
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Envio dos termos"
+      +"float": 1
+      +"hora": "18:00:00"
+    }
+    3 => {#590
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    4 => {#583
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco2"
+      +"float": 2
+      +"hora": "15:00:00"
+    }
+    5 => {#579
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco3"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    6 => {#572
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Test Confede"
+      +"float": 6
+      +"hora": "17:01:00"
+    }
+    7 => {#601
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸rcio Teste2"
+      +"float": 2
+      +"hora": "17:05:00"
+    }
+    8 => {#602
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸r tes"
+      +"float": 6
+      +"hora": "17:07:00"
+    }
+    9 => {#603
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "teste Corretora"
+      +"float": 2
+      +"hora": "18:30:00"
+    }
+    10 => {#604
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Ativ Fundos"
+      +"float": 6
+      +"hora": "18:30:00"
+    }
+  ]
+}
+Illuminate\Support\Collection {#582
+  #items: array:11 [
+    0 => {#584
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "asasas"
+      +"float": 2
+      +"hora": "17:00:00"
+    }
+    1 => {#587
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Atividade teste trigger"
+      +"float": 2
+      +"hora": "17:10:00"
+    }
+    2 => {#585
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Envio dos termos"
+      +"float": 1
+      +"hora": "18:00:00"
+    }
+    3 => {#590
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    4 => {#583
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco2"
+      +"float": 2
+      +"hora": "15:00:00"
+    }
+    5 => {#579
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco3"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    6 => {#572
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Test Confede"
+      +"float": 6
+      +"hora": "17:01:00"
+    }
+    7 => {#601
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸rcio Teste2"
+      +"float": 2
+      +"hora": "17:05:00"
+    }
+    8 => {#602
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸r tes"
+      +"float": 6
+      +"hora": "17:07:00"
+    }
+    9 => {#603
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "teste Corretora"
+      +"float": 2
+      +"hora": "18:30:00"
+    }
+    10 => {#604
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Ativ Fundos"
+      +"float": 6
+      +"hora": "18:30:00"
+    }
+  ]
+}
+Illuminate\Support\Collection {#582
+  #items: array:11 [
+    0 => {#584
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "asasas"
+      +"float": 2
+      +"hora": "17:00:00"
+    }
+    1 => {#587
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Atividade teste trigger"
+      +"float": 2
+      +"hora": "17:10:00"
+    }
+    2 => {#585
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Envio dos termos"
+      +"float": 1
+      +"hora": "18:00:00"
+    }
+    3 => {#590
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    4 => {#583
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco2"
+      +"float": 2
+      +"hora": "15:00:00"
+    }
+    5 => {#579
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco3"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    6 => {#572
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Test Confede"
+      +"float": 6
+      +"hora": "17:01:00"
+    }
+    7 => {#601
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸rcio Teste2"
+      +"float": 2
+      +"hora": "17:05:00"
+    }
+    8 => {#602
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸r tes"
+      +"float": 6
+      +"hora": "17:07:00"
+    }
+    9 => {#603
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "teste Corretora"
+      +"float": 2
+      +"hora": "18:30:00"
+    }
+    10 => {#604
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Ativ Fundos"
+      +"float": 6
+      +"hora": "18:30:00"
+    }
+  ]
+}
+Illuminate\Support\Collection {#582
+  #items: array:11 [
+    0 => {#584
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "asasas"
+      +"float": 2
+      +"hora": "17:00:00"
+    }
+    1 => {#587
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Atividade teste trigger"
+      +"float": 2
+      +"hora": "17:10:00"
+    }
+    2 => {#585
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Envio dos termos"
+      +"float": 1
+      +"hora": "18:00:00"
+    }
+    3 => {#590
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    4 => {#583
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco2"
+      +"float": 2
+      +"hora": "15:00:00"
+    }
+    5 => {#579
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco3"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    6 => {#572
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Test Confede"
+      +"float": 6
+      +"hora": "17:01:00"
+    }
+    7 => {#601
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸rcio Teste2"
+      +"float": 2
+      +"hora": "17:05:00"
+    }
+    8 => {#602
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸r tes"
+      +"float": 6
+      +"hora": "17:07:00"
+    }
+    9 => {#603
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "teste Corretora"
+      +"float": 2
+      +"hora": "18:30:00"
+    }
+    10 => {#604
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Ativ Fundos"
+      +"float": 6
+      +"hora": "18:30:00"
+    }
+  ]
+}
+Illuminate\Support\Collection {#582
+  #items: array:11 [
+    0 => {#584
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "asasas"
+      +"float": 2
+      +"hora": "17:00:00"
+    }
+    1 => {#587
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Atividade teste trigger"
+      +"float": 2
+      +"hora": "17:10:00"
+    }
+    2 => {#585
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Envio dos termos"
+      +"float": 1
+      +"hora": "18:00:00"
+    }
+    3 => {#590
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    4 => {#583
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco2"
+      +"float": 2
+      +"hora": "15:00:00"
+    }
+    5 => {#579
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco3"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    6 => {#572
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Test Confede"
+      +"float": 6
+      +"hora": "17:01:00"
+    }
+    7 => {#601
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸rcio Teste2"
+      +"float": 2
+      +"hora": "17:05:00"
+    }
+    8 => {#602
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸r tes"
+      +"float": 6
+      +"hora": "17:07:00"
+    }
+    9 => {#603
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "teste Corretora"
+      +"float": 2
+      +"hora": "18:30:00"
+    }
+    10 => {#604
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Ativ Fundos"
+      +"float": 6
+      +"hora": "18:30:00"
+    }
+  ]
+}
+Illuminate\Support\Collection {#582
+  #items: array:11 [
+    0 => {#584
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "asasas"
+      +"float": 2
+      +"hora": "17:00:00"
+    }
+    1 => {#587
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Atividade teste trigger"
+      +"float": 2
+      +"hora": "17:10:00"
+    }
+    2 => {#585
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Envio dos termos"
+      +"float": 1
+      +"hora": "18:00:00"
+    }
+    3 => {#590
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    4 => {#583
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco2"
+      +"float": 2
+      +"hora": "15:00:00"
+    }
+    5 => {#579
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco3"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    6 => {#572
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Test Confede"
+      +"float": 6
+      +"hora": "17:01:00"
+    }
+    7 => {#601
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸rcio Teste2"
+      +"float": 2
+      +"hora": "17:05:00"
+    }
+    8 => {#602
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸r tes"
+      +"float": 6
+      +"hora": "17:07:00"
+    }
+    9 => {#603
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "teste Corretora"
+      +"float": 2
+      +"hora": "18:30:00"
+    }
+    10 => {#604
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Ativ Fundos"
+      +"float": 6
+      +"hora": "18:30:00"
+    }
+  ]
+}
+Illuminate\Support\Collection {#582
+  #items: array:11 [
+    0 => {#584
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "asasas"
+      +"float": 2
+      +"hora": "17:00:00"
+    }
+    1 => {#587
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Atividade teste trigger"
+      +"float": 2
+      +"hora": "17:10:00"
+    }
+    2 => {#585
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Envio dos termos"
+      +"float": 1
+      +"hora": "18:00:00"
+    }
+    3 => {#590
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    4 => {#583
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco2"
+      +"float": 2
+      +"hora": "15:00:00"
+    }
+    5 => {#579
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco3"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    6 => {#572
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Test Confede"
+      +"float": 6
+      +"hora": "17:01:00"
+    }
+    7 => {#601
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸rcio Teste2"
+      +"float": 2
+      +"hora": "17:05:00"
+    }
+    8 => {#602
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸r tes"
+      +"float": 6
+      +"hora": "17:07:00"
+    }
+    9 => {#603
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "teste Corretora"
+      +"float": 2
+      +"hora": "18:30:00"
+    }
+    10 => {#604
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Ativ Fundos"
+      +"float": 6
+      +"hora": "18:30:00"
+    }
+  ]
+}
+Illuminate\Support\Collection {#582
+  #items: array:11 [
+    0 => {#584
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "asasas"
+      +"float": 2
+      +"hora": "17:00:00"
+    }
+    1 => {#587
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Atividade teste trigger"
+      +"float": 2
+      +"hora": "17:10:00"
+    }
+    2 => {#585
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Envio dos termos"
+      +"float": 1
+      +"hora": "18:00:00"
+    }
+    3 => {#590
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    4 => {#583
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco2"
+      +"float": 2
+      +"hora": "15:00:00"
+    }
+    5 => {#579
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco3"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    6 => {#572
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Test Confede"
+      +"float": 6
+      +"hora": "17:01:00"
+    }
+    7 => {#601
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸rcio Teste2"
+      +"float": 2
+      +"hora": "17:05:00"
+    }
+    8 => {#602
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸r tes"
+      +"float": 6
+      +"hora": "17:07:00"
+    }
+    9 => {#603
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "teste Corretora"
+      +"float": 2
+      +"hora": "18:30:00"
+    }
+    10 => {#604
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Ativ Fundos"
+      +"float": 6
+      +"hora": "18:30:00"
+    }
+  ]
+}
+Illuminate\Support\Collection {#582
+  #items: array:11 [
+    0 => {#584
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "asasas"
+      +"float": 2
+      +"hora": "17:00:00"
+    }
+    1 => {#587
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Atividade teste trigger"
+      +"float": 2
+      +"hora": "17:10:00"
+    }
+    2 => {#585
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Envio dos termos"
+      +"float": 1
+      +"hora": "18:00:00"
+    }
+    3 => {#590
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    4 => {#583
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco2"
+      +"float": 2
+      +"hora": "15:00:00"
+    }
+    5 => {#579
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco3"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    6 => {#572
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Test Confede"
+      +"float": 6
+      +"hora": "17:01:00"
+    }
+    7 => {#601
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸rcio Teste2"
+      +"float": 2
+      +"hora": "17:05:00"
+    }
+    8 => {#602
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸r tes"
+      +"float": 6
+      +"hora": "17:07:00"
+    }
+    9 => {#603
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "teste Corretora"
+      +"float": 2
+      +"hora": "18:30:00"
+    }
+    10 => {#604
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Ativ Fundos"
+      +"float": 6
+      +"hora": "18:30:00"
+    }
+  ]
+}
+Illuminate\Support\Collection {#582
+  #items: array:11 [
+    0 => {#584
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "asasas"
+      +"float": 2
+      +"hora": "17:00:00"
+    }
+    1 => {#587
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Atividade teste trigger"
+      +"float": 2
+      +"hora": "17:10:00"
+    }
+    2 => {#585
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Envio dos termos"
+      +"float": 1
+      +"hora": "18:00:00"
+    }
+    3 => {#590
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    4 => {#583
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco2"
+      +"float": 2
+      +"hora": "15:00:00"
+    }
+    5 => {#579
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco3"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    6 => {#572
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Test Confede"
+      +"float": 6
+      +"hora": "17:01:00"
+    }
+    7 => {#601
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸rcio Teste2"
+      +"float": 2
+      +"hora": "17:05:00"
+    }
+    8 => {#602
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸r tes"
+      +"float": 6
+      +"hora": "17:07:00"
+    }
+    9 => {#603
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "teste Corretora"
+      +"float": 2
+      +"hora": "18:30:00"
+    }
+    10 => {#604
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Ativ Fundos"
+      +"float": 6
+      +"hora": "18:30:00"
+    }
+  ]
+}
+Illuminate\Support\Collection {#582
+  #items: array:11 [
+    0 => {#584
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "asasas"
+      +"float": 2
+      +"hora": "17:00:00"
+    }
+    1 => {#587
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Atividade teste trigger"
+      +"float": 2
+      +"hora": "17:10:00"
+    }
+    2 => {#585
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Envio dos termos"
+      +"float": 1
+      +"hora": "18:00:00"
+    }
+    3 => {#590
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    4 => {#583
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco2"
+      +"float": 2
+      +"hora": "15:00:00"
+    }
+    5 => {#579
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco3"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    6 => {#572
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Test Confede"
+      +"float": 6
+      +"hora": "17:01:00"
+    }
+    7 => {#601
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸rcio Teste2"
+      +"float": 2
+      +"hora": "17:05:00"
+    }
+    8 => {#602
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸r tes"
+      +"float": 6
+      +"hora": "17:07:00"
+    }
+    9 => {#603
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "teste Corretora"
+      +"float": 2
+      +"hora": "18:30:00"
+    }
+    10 => {#604
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Ativ Fundos"
+      +"float": 6
+      +"hora": "18:30:00"
+    }
+  ]
+}
+Illuminate\Support\Collection {#582
+  #items: array:11 [
+    0 => {#584
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "asasas"
+      +"float": 2
+      +"hora": "17:00:00"
+    }
+    1 => {#587
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Atividade teste trigger"
+      +"float": 2
+      +"hora": "17:10:00"
+    }
+    2 => {#585
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Envio dos termos"
+      +"float": 1
+      +"hora": "18:00:00"
+    }
+    3 => {#590
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    4 => {#583
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco2"
+      +"float": 2
+      +"hora": "15:00:00"
+    }
+    5 => {#579
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco3"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    6 => {#572
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Test Confede"
+      +"float": 6
+      +"hora": "17:01:00"
+    }
+    7 => {#601
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸rcio Teste2"
+      +"float": 2
+      +"hora": "17:05:00"
+    }
+    8 => {#602
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸r tes"
+      +"float": 6
+      +"hora": "17:07:00"
+    }
+    9 => {#603
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "teste Corretora"
+      +"float": 2
+      +"hora": "18:30:00"
+    }
+    10 => {#604
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Ativ Fundos"
+      +"float": 6
+      +"hora": "18:30:00"
+    }
+  ]
+}
+Illuminate\Support\Collection {#582
+  #items: array:11 [
+    0 => {#584
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "asasas"
+      +"float": 2
+      +"hora": "17:00:00"
+    }
+    1 => {#587
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Atividade teste trigger"
+      +"float": 2
+      +"hora": "17:10:00"
+    }
+    2 => {#585
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Envio dos termos"
+      +"float": 1
+      +"hora": "18:00:00"
+    }
+    3 => {#590
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    4 => {#583
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco2"
+      +"float": 2
+      +"hora": "15:00:00"
+    }
+    5 => {#579
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco3"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    6 => {#572
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Test Confede"
+      +"float": 6
+      +"hora": "17:01:00"
+    }
+    7 => {#601
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸rcio Teste2"
+      +"float": 2
+      +"hora": "17:05:00"
+    }
+    8 => {#602
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸r tes"
+      +"float": 6
+      +"hora": "17:07:00"
+    }
+    9 => {#603
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "teste Corretora"
+      +"float": 2
+      +"hora": "18:30:00"
+    }
+    10 => {#604
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Ativ Fundos"
+      +"float": 6
+      +"hora": "18:30:00"
+    }
+  ]
+}
+Illuminate\Support\Collection {#582
+  #items: array:11 [
+    0 => {#584
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "asasas"
+      +"float": 2
+      +"hora": "17:00:00"
+    }
+    1 => {#587
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Atividade teste trigger"
+      +"float": 2
+      +"hora": "17:10:00"
+    }
+    2 => {#585
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Envio dos termos"
+      +"float": 1
+      +"hora": "18:00:00"
+    }
+    3 => {#590
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    4 => {#583
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco2"
+      +"float": 2
+      +"hora": "15:00:00"
+    }
+    5 => {#579
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco3"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    6 => {#572
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Test Confede"
+      +"float": 6
+      +"hora": "17:01:00"
+    }
+    7 => {#601
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸rcio Teste2"
+      +"float": 2
+      +"hora": "17:05:00"
+    }
+    8 => {#602
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸r tes"
+      +"float": 6
+      +"hora": "17:07:00"
+    }
+    9 => {#603
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "teste Corretora"
+      +"float": 2
+      +"hora": "18:30:00"
+    }
+    10 => {#604
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Ativ Fundos"
+      +"float": 6
+      +"hora": "18:30:00"
+    }
+  ]
+}
+Illuminate\Support\Collection {#582
+  #items: array:11 [
+    0 => {#584
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "asasas"
+      +"float": 2
+      +"hora": "17:00:00"
+    }
+    1 => {#587
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Atividade teste trigger"
+      +"float": 2
+      +"hora": "17:10:00"
+    }
+    2 => {#585
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Envio dos termos"
+      +"float": 1
+      +"hora": "18:00:00"
+    }
+    3 => {#590
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    4 => {#583
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco2"
+      +"float": 2
+      +"hora": "15:00:00"
+    }
+    5 => {#579
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco3"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    6 => {#572
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Test Confede"
+      +"float": 6
+      +"hora": "17:01:00"
+    }
+    7 => {#601
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸rcio Teste2"
+      +"float": 2
+      +"hora": "17:05:00"
+    }
+    8 => {#602
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸r tes"
+      +"float": 6
+      +"hora": "17:07:00"
+    }
+    9 => {#603
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "teste Corretora"
+      +"float": 2
+      +"hora": "18:30:00"
+    }
+    10 => {#604
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Ativ Fundos"
+      +"float": 6
+      +"hora": "18:30:00"
+    }
+  ]
+}
+Illuminate\Support\Collection {#582
+  #items: array:11 [
+    0 => {#584
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "asasas"
+      +"float": 2
+      +"hora": "17:00:00"
+    }
+    1 => {#587
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Atividade teste trigger"
+      +"float": 2
+      +"hora": "17:10:00"
+    }
+    2 => {#585
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Envio dos termos"
+      +"float": 1
+      +"hora": "18:00:00"
+    }
+    3 => {#590
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    4 => {#583
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco2"
+      +"float": 2
+      +"hora": "15:00:00"
+    }
+    5 => {#579
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco3"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    6 => {#572
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Test Confede"
+      +"float": 6
+      +"hora": "17:01:00"
+    }
+    7 => {#601
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸rcio Teste2"
+      +"float": 2
+      +"hora": "17:05:00"
+    }
+    8 => {#602
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸r tes"
+      +"float": 6
+      +"hora": "17:07:00"
+    }
+    9 => {#603
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "teste Corretora"
+      +"float": 2
+      +"hora": "18:30:00"
+    }
+    10 => {#604
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Ativ Fundos"
+      +"float": 6
+      +"hora": "18:30:00"
+    }
+  ]
+}
+Illuminate\Support\Collection {#582
+  #items: array:11 [
+    0 => {#584
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "asasas"
+      +"float": 2
+      +"hora": "17:00:00"
+    }
+    1 => {#587
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Atividade teste trigger"
+      +"float": 2
+      +"hora": "17:10:00"
+    }
+    2 => {#585
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Envio dos termos"
+      +"float": 1
+      +"hora": "18:00:00"
+    }
+    3 => {#590
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    4 => {#583
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco2"
+      +"float": 2
+      +"hora": "15:00:00"
+    }
+    5 => {#579
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Teste Banco3"
+      +"float": 6
+      +"hora": "18:00:00"
+    }
+    6 => {#572
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Test Confede"
+      +"float": 6
+      +"hora": "17:01:00"
+    }
+    7 => {#601
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸rcio Teste2"
+      +"float": 2
+      +"hora": "17:05:00"
+    }
+    8 => {#602
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Cons贸r tes"
+      +"float": 6
+      +"hora": "17:07:00"
+    }
+    9 => {#603
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "teste Corretora"
+      +"float": 2
+      +"hora": "18:30:00"
+    }
+    10 => {#604
+      +"nome": "Luiz Geraldo Pinheiro"
+      +"email": "luiz_geraldo"
+      +"atividade": "Ativ Fundos"
+      +"float": 6
+      +"hora": "18:30:00"
+    }
+  ]
+}
+
+In Mailer.php line 338:
+                                 
+  Only mailables may be queued.  
+                                 
+
+
+In StreamBuffer.php line 268:
+                                                                                                                       
+  Connection could not be established with host smtp-mail.outlook.com [Uma tentativa de conex鉶 falhou porque o compo  
+  nente conectado n鉶 respondeu                                                                                        
+  corretamente ap髎 um per韔do de tempo ou a conex鉶 estabelecida falhou                                               
+  porque o host conectado n鉶 respondeu.                                                                               
+   #10060]                                                                                                             
+                                                                                                                       
+
+
+In StreamBuffer.php line 94:
+                                                                                            
+  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:  
+  error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed         
+                                                                                            
+
+
+In StreamBuffer.php line 94:
+                                                                                            
+  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:  
+  error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed         
+                                                                                            
+
+
+In StreamBuffer.php line 94:
+                                                                                            
+  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:  
+  error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed         
+                                                                                            
+
+
+In StreamBuffer.php line 94:
+                                                                                            
+  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:  
+  error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed         
+                                                                                            
+
+
+In StreamBuffer.php line 94:
+                                                                                            
+  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:  
+  error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed         
+                                                                                            
+
+
+In StreamBuffer.php line 94:
+                                                                                            
+  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:  
+  error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed         
+                                                                                            
+
+
+In StreamBuffer.php line 94:
+                                                                                            
+  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:  
+  error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed         
+                                                                                            
+
+
+In StreamBuffer.php line 94:
+                                                                                            
+  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:  
+  error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed         
+                                                                                            
+
+
+In StreamBuffer.php line 94:
+                                                                                            
+  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:  
+  error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed         
+                                                                                            
+
+
+In StreamBuffer.php line 94:
+                                                                                            
+  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:  
+  error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed         
+                                                                                            
+
+
+In StreamBuffer.php line 94:
+                                                                                            
+  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:  
+  error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed         
+                                                                                            
+

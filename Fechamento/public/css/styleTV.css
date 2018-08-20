@@ -1,0 +1,151 @@
+body {
+  background: url(../../../img/tv/blur-bg.jpg);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transition: none;
+  background-attachment: fixed;
+}
+
+.tit-fecha{
+  margin-bottom: 20px;
+  color: white;
+}
+.perc-conc{
+  color: white;
+}
+
+
+
+.imgsicred{
+  max-width:710px;
+  max-height:230px;
+  width: 710px;
+  height: 230px;
+  aposition: absolute;
+  float:left;
+  amax-width:3500px;
+  amax-height:100px;
+  awidth: 100%;
+  aheight: 100%;
+  margin-left: -50px;
+  amargin-top: 15px;
+  adisplay: block;
+  atransition: none;
+  
+}
+
+.traffic-text {
+  width: 100%;
+  height: 40px;
+  position: absolute;
+  top: 50%;
+  left: 0px;
+  margin-top: -24px;
+  line-height: 24px;
+  text-align: center;
+  font-size: 18px;
+  color: white;
+}
+
+.traffic-text span {
+  display: block;
+  font-size: 18px;
+  acolor: default-text;
+}
+
+.legend-color{
+  width: 30px;
+  height: 30px;
+  box-shadow:0 2px 2px 0 rgba(0, 0, 0, 0.25);
+  position: relative;
+  top: 27px;
+  border-radius: 15px;
+  left: -45px;
+}
+
+.legend-text{
+  color: white
+}
+
+
+.channels-info-item p {
+    margin-bottom: 9px;
+    font-size: 18px;
+    opacity: 0.9;
+}
+.channels-info-item .channel-number{
+    display: inline-block;
+    float: right;
+ }
+
+ .channel-progress {
+  height: 4px;
+  border-radius: 0;
+  width: 100%;
+  margin-bottom: 0;
+  background-color: rgba(0,0,0,.15);
+  box-shadow: none;
+ }
+
+.channel-progress .progress-bar{
+    height: 4px;
+    background-color: rgba(0,0,0,.15);
+    box-shadow: none;
+  
+}
+
+.panel {
+  color: transparent;
+  background-color: transparent;
+  border: none;
+  border-radius: 5px;
+  position: relative;
+  margin-bottom: 24px;
+  box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.25);
+}
+
+.panel.panel-blur {
+  background: url(../../../img/tv/blur-bg-blurred-sicredi.jpg);
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  transition: none;
+  background-attachment: fixed;
+}
+
+.panel > .panel-body {
+    padding: 15px 22px;
+    height: 100%;
+  }
+.panel > .panel-heading {
+    acolor: default-text;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+.panel > .panel-footer {
+    acolor: default-text;
+  }
+
+.panel-heading, .panel-footer {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+  box-shadow: 0 1px 0 0 rgba(255, 255, 255, 0.12);
+  height: panel-title-height;
+  font-size: panel-heading-font-size;
+  vertical-padding: (panel-title-height - panel-heading-font-size) / 2;
+  padding: vertical-padding 22px;
+}
+
+.panel-title {
+  font-weight: font-normal;
+  text-transform: uppercase;
+  opacity: 0.9;
+}
+
+.panel-default > .panel-heading {
+    color: bootstrap-panel-text;
+  }
+.panel-default  .panel-footer {
+    color: bootstrap-panel-text;
+  }
