@@ -158,8 +158,6 @@ Route::get('/cache', function(){
 
     //exec('composer dump-autoload');
     //echo '<h1>Dump Autoload</h1>';
-
-
     
     //Clear Cache facade value:
     $exitCode = Artisan::call('cache:clear');

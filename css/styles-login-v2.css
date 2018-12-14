@@ -107,6 +107,9 @@ ul,.nav,
 /************/
 /*LOGIN PAGE*/
 /************/
+.login-page body{
+	background-color: #f5f8fa;
+}
 .login-page main{
 	background-position: top;
 	background-repeat: no-repeat;

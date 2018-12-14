@@ -25,7 +25,9 @@ class TarefaController extends Controller
         if ($usuario->nivel <= 2){
             //CASO USUARIO ADMIN OU DEV, TRAZER TODAS ATIVIDADES DO PERIODO
             
-            $tarefa = \App\Atividade_Periodo::where('periodo_id', '=', $ultPeriodo)->get();
+            $tarefa = \App\Atividade_Periodo::where('periodo_id', '=', $ultPeriodo)
+            //->where('id', '=', '3461')
+            ->get();
             
         }elseif ($usuario->nivel == 3){
             //CASO USUARIO SEJA GESTOR, PESQUISAR AS SUAS TAREFAS E AS TAREFAS DOS SEUS SUBORDINADOS
@@ -251,6 +253,7 @@ class TarefaController extends Controller
 
         //dd($qtdDay);
         
+        /*
         if ($qtdDay <= -15){
 
             //NÃO ESTA TRATADO O FERIADO para 15 e 20 dias
@@ -262,7 +265,7 @@ class TarefaController extends Controller
                 $firstDay = strtotime($lastDay);
             }
             return date('d/m/Y', $firstDay);
-        }
+        }*/
         
         $mes = $mes + 1;
         
@@ -276,6 +279,14 @@ class TarefaController extends Controller
             $firstDay = strtotime($lastDay . ' +'.$qtdDay.' Weekday');
         }
 
+        
+        //dd(($lastDay));
+
+        //dd(strtotime($lastDay));
+        //dd(date('d/m/Y H:i:s', $firstDay));
+        //dd($firstDay);
+        
+
         //dd(date('d/m/Y', $firstDay));
         /*if (date('d', mktime(0, 0, 0, $mes, 0, $ano)) == "31" && $qtdDay < 0){
             $qtdDay = $qtdDay + 1;
@@ -286,12 +297,22 @@ class TarefaController extends Controller
         //$firstDay = strtotime($lastDay . ' +'.$qtdDay.' Weekday');
 
         $feriados = \App\Feriado::all();
-
+        //dd($feriados);
 
         if($qtdDay > 0){
+            //dd($qtdDay);
+            /*foreach($feriados as $f){
+                echo $f->data ." -> ". strtotime($f->data)."\n";
+            }*/
+
+
             while (strtotime($lastDay) < ($firstDay)){
+                //echo date('Y-m-d', $firstDay);
                 foreach($feriados as $feriado){
-                    if ( strtotime($feriado->data) == ($firstDay) ){
+                    //echo "  ----------------------------------      ";
+                    //echo $feriado->data. " - ";
+                    if ((($feriado->data)) == date('Y-m-d', $firstDay) ){
+                        //dd("oi");
                         $qtdDay++;
                         $firstDay = $firstDay - $dia;
                     }
@@ -311,9 +332,10 @@ class TarefaController extends Controller
                 $firstDay = $firstDay + $dia;
             }
         }
+        //dd($qtdDay);
 
         $firstDay = strtotime($lastDay . ' +'.$qtdDay.' Weekday');
-        //dd($firstDay);
+        //dd(date('d/m/Y H:i:s', $firstDay));
         return date('d/m/Y', $firstDay);
     }
 

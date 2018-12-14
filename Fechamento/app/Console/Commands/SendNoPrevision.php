@@ -54,6 +54,8 @@ class SendNoPrevision extends Command
         $qtdDay = app('App\Http\Controllers\Site\TarefaController')->getFloat($today);
         //$qtdDay = 2;
 
+        //dd($qtdDay);
+
         $hour = new DateTime( date('Y-m-d H:i:s') );
 
         if($hour->format('H') > 20 || $hour->format('H') < 8){
@@ -104,7 +106,7 @@ class SendNoPrevision extends Command
                 //->toSql();
                 ->get();
 
-            //dd($atividades);
+            //echo $atividades;
             
             if (count($atividades) > 0){
                 $data = array();
@@ -122,6 +124,7 @@ class SendNoPrevision extends Command
                 //$to = $user->email."@sicredi.com.br";
                 //$toName = $user->nome;
                 //dd($to);
+                //dd($atividades);
 
                 //dd($user->gerente->email);
                 

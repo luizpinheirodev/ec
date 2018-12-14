@@ -13,12 +13,13 @@
                     <h1>Insira suas credenciais</h1>
                 </div>
                 <form id ="formLogin" role="form" method="POST" action="{{ route('loginLdap') }}">
+                    <input type="hidden" name="_token" value="{{{ csrf_token() }}}" />
                     {{ csrf_field() }}
                     <div class="form-group usuario">
                         <input type="text" class="form-control" id="email" placeholder="Usu&aacute;rio" name="email" value="{{ old('email') }}" required autofocus>
                     </div>
                     @if ($errors->has('email'))
-                                    <span class="help-block">
+                                    <span class="">
                                         <strong>{{ $errors->first('email') }}</strong>
                                     </span>
                                 @endif
@@ -26,7 +27,7 @@
                         <input type="password" class="form-control" id="password" placeholder="Senha" name="password" required>
                     </div>
                     @if ($errors->has('password'))
-                        <span class="help-block">
+                        <span class="">
                             <strong>{{ $errors->first('password') }}</strong>
                         </span>
                     @endif

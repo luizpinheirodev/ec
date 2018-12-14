@@ -46,10 +46,6 @@ class UserController extends Controller
         $request->session()->flash('changePass', 'Usuário atualizado com sucesso. - '.$user->nome);//flash message teste
         return redirect()->route('user.index');
 
-
-
-
-
     }
 
 }

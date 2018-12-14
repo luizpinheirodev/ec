@@ -693,12 +693,12 @@ var config13 = {
 var dias = {
     type: 'bar',
     data: {
-      labels: ["Novembro", "Dezembro", "Janeiro", "Fevereiro", "Março", "Abril", "Maio"],
+      labels: ["Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro"],
       datasets: [
         {
           label: "Dias (quantidade)",
-          backgroundColor: ["#146E37", "#146E37","#146E37","#146E37","#146E37", "#146E37", "#146E37"],
-          data: [5,5,6,5,6,4,5]
+          backgroundColor: ["#146E37", "#146E37","#146E37","#146E37","#146E37", "#146E37", "#146E37", "#146E37", "#146E37"],
+          data: [6,5,6,4,5,5,4,4,5]
           
         }
       ],

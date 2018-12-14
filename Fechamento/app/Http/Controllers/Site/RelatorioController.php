@@ -39,7 +39,6 @@ class RelatorioController extends Controller
                 $where[] = array("periodo_id", "=", $dados['periodo']);
                 $where[] = array("ap.conclusao", "=", 1);
                 break;
-
             default:
                 # code...
                 break;

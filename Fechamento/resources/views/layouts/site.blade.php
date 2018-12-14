@@ -10,7 +10,7 @@
 
     <title>{{ config('app.name', 'Encerramento Contábil') }}</title>
 
-    @php $version = 6 @endphp
+    @php $version = 9 @endphp
     <!-- Styles -->
     <!--Import Google Icon Font-->
     <!--<link href="{{ asset('css/app.css') }}" rel="stylesheet">-->
@@ -24,8 +24,6 @@
     <link href="{{ asset('lib/font-awesome-4.7.0/css/font-awesome.css') }}" rel="stylesheet">
     <link href="{{ asset('lib/font-awesome-4.7.0/css/fontawesome-all.min.css') }}" rel="stylesheet">
     <link href="{{ asset('css/coments.css') }}?v={{$version}}" rel="stylesheet">
-    
-    
     
     
 </head>
